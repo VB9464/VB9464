@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 🎓 Pursuing **MSc in Data Science**  
-- 🤖 Passionate about **AI, Machine Learning, LLMs, Robotics**  
+- 🤖 Passionate about **AI, Machine Learning**  
 - 💡 Love turning **data → intelligence**  
 - 🌍 Dream: **AI Engineer @ Global Tech Companies**  
 - 📚 Always learning, always building  
@@ -18,11 +18,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 ---
