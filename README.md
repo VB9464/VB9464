@@ -9,7 +9,7 @@
 - 🎓 Pursuing **MSc in Data Science**  
 - 🤖 Passionate about **AI, Machine Learning**  
 - 💡 Love turning **data → intelligence**  
-- 🌍 Dream: **AI Engineer @ Global Tech Companies**  
+- 🌍 Dream: **AI/ML Engineer**  
 - 📚 Always learning, always building  
 
 ---
