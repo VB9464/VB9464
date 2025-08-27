@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 🎓 Pursuing **MSc in Data Science** Expected 2027  
-- 🤖 Passionate about **AI, Machine Learning**  
+- 🤖 Passionate about **AI, Machine Learning , Data Analytics**  
 - 💡 Love turning **data → intelligence**  
 - 🌍 Dream: **AI/ML Engineer**  
 - 📚 Always learning, always building  
