@@ -45,6 +45,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+---
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VB9464&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Vishal's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=VB9464&theme=tokyonight&hide_border=true)
+
+![Vishal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VB9464&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -70,3 +76,6 @@
 ---
 
 ✨ _“Code + Data + AI → Future”_ ✨
+## 💬 Fun Fact
+
+I believe in the power of data to tell compelling stories and drive decisions. Let's turn data into intelligence together!
