@@ -38,20 +38,22 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VB9464&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VB9464&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 ---
+<p align = "center">
 ![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VB9464&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Vishal's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=VB9464&theme=tokyonight&hide_border=true)
 
 ![Vishal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VB9464&layout=compact&theme=tokyonight&hide_border=true)
 
+</p>
 ---
 
 ## 🌟 Featured Projects
