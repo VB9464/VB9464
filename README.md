@@ -46,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VB9464&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-
+---
 
 ## 🌟 Featured Projects
 - 🤖 **AI & ML Projects** – Regression, Classification, NLP, CV  
