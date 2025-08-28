@@ -50,7 +50,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VB9464&layout=compact&theme=radical&hide_border=false" height="170"/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=VB9464&theme=radical&hide_border=false" height="250"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=VB9464&theme=radical&hide_border=false" height="170"/>
 </p>
 
 ---
