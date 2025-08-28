@@ -39,11 +39,9 @@
 
 ## 🚀 GitHub Overview 
 <p align="center">
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=VB9464&label=Profile%20Views&color=0e75b6&style=flat" />
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=VB9464&show_icons=true&theme=radical&hide_border=false&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VB9464&show_icons=true&theme=radical&hide_border=True&count_private=true" height="170"/>
 
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=VB9464&theme=radical&hide_border=false" height="170"/>
