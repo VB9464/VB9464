@@ -49,7 +49,7 @@
   <img src="https://streak-stats.demolab.com?user=VB9464&theme=tokyonight" height="170"/>
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VB9464&layout=donut&theme=radical" height="170"/>
 </p>
 
@@ -58,21 +58,6 @@
 </p>
 
 
-
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=VB9464&show_icons=true&theme=radical" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=VB9464&theme=radical" height="170"/>
-</p>
-
----
-
-### 🔥 Languages
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VB9464&layout=donut&theme=radical" height="170"/>
-</p>
-
----
 
 ### 📈 Contribution Graph
 <p>
