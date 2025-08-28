@@ -37,7 +37,8 @@
 ---
 
 
-## 🚀 GitHub Overview  
+## 🚀 GitHub Overview 
+<p align="center">
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=VB9464&label=Profile%20Views&color=0e75b6&style=flat" />
 
@@ -52,7 +53,7 @@
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=VB9464&theme=radical&hide_border=false" height="250"/>
-
+</p>
 
 ---
 
