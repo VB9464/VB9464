@@ -53,12 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VB9464&layout=donut&theme=radical" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=VB9464&theme=tokyonight&hide_border=false" height="250"/>
-</p>
-
-
-
 ### 📈 Contribution Graph
 <p>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=VB9464&theme=radical" height="250"/>
@@ -66,20 +60,7 @@
 
 
 ---
-<h2 align="center">🚀 Vishal's GitHub Stats 🚀</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VB9464&show_icons=true&theme=dark&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=VB9464&theme=dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VB9464&layout=compact&theme=dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=VB9464&theme=github-dark&hide_border=true" height="250"/>
-</p>
 
 
 ## 🌟 Featured Projects
