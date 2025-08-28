@@ -60,6 +60,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VB9464&theme=radical&hide_border=false" height="250"/>
 </p>
 
+##  Stats & Activity (Refreshed)
+
+<p align="center">
+  <!-- Updated Activity Graph (Cyclic endpoint) -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=VB9464&theme=radical&hide_border=false" height="250"/>
+</p>
+
+<p align="center">
+  <!-- Official Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VB9464&show_icons=true&theme=radical&hide_border=false&count_private=true" height="170"/>
+  <!-- Streak Stats as fallback -->
+  <img src="https://streak-stats.demolab.com/?user=VB9464&theme=radical&hide_border=false" height="170"/>
+</p>
 
 ---
 
