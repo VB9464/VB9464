@@ -38,20 +38,25 @@
 
 
 ## 🚀 GitHub Overview 
+## 👋 Hey there, I'm Vishal  
+
 <p align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=VB9464&show_icons=true&theme=radical&hide_border=True&count_private=true" height="170"/>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=VB9464&theme=radical&hide_border=false" height="170"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VB9464&layout=compact&theme=radical&hide_border=false" height="170"/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=VB9464&theme=radical&hide_border=false" height="170"/>
+  <img src="https://komarev.com/ghpvc/?username=VB9464&label=Profile%20Views&color=brightgreen&style=flat-square" alt="views"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VB9464&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=VB9464&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VB9464&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=VB9464&theme=tokyonight&hide_border=false" height="250"/>
+</p>
+
 
 ---
 
