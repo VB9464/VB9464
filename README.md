@@ -36,15 +36,30 @@
 
 ---
 
-## 📊 GitHub Stats
+
+## 🚀 GitHub Overview  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VB9464&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=VB9464&theme=tokyonight&hide_border=true" height="160"/>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=VB9464&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VB9464&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VB9464&show_icons=true&theme=radical&hide_border=false&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=VB9464&theme=radical&hide_border=false" height="170"/>
 </p>
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VB9464&layout=donut&theme=radical&hide_border=false" height="170"/>
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VB9464&theme=radical&hide_border=false" height="250"/>
+</p>
+
 
 ---
 
