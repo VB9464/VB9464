@@ -37,7 +37,7 @@
 ---
 
 
-## 🚀 GitHub Overview 
+
 ## 👋 Hey there, I'm Vishal  
 
 <p align="center">
@@ -55,6 +55,36 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=VB9464&theme=tokyonight&hide_border=false" height="250"/>
+</p>
+
+# 🚀 Vishal | Aspiring ML Engineer  
+
+### 🛠 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=VB9464&show_icons=true&theme=radical" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=VB9464&theme=radical" height="170"/>
+</p>
+
+---
+
+### 🔥 Languages
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VB9464&layout=donut&theme=radical" height="170"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=VB9464&theme=radical" height="250"/>
 </p>
 
 
