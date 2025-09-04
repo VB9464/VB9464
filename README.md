@@ -81,7 +81,11 @@
   <a href="https://github.com/VB9464" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://vb9464.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 ✨ _“Code + Data + AI → Future”_ ✨
