@@ -47,12 +47,9 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=VB9464&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
  
  
-<p align="center">
- 
-
   <img src="https://github-readme-stats.vercel.app/api?username=VB9464&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
   <img src="https://streak-stats.demolab.com?user=VB9464&theme=tokyonight" height="170"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VB9464&layout=donut&theme=radical" height="170"/>
