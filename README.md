@@ -22,6 +22,27 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,matplotlib,seaborn,jupyter,vscode,pycharm,git,github,mysql,flutter,react,nodejs,excel" />
 </p>
+## 🛠️ Skills & Tools  
+<p align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" /></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://skillicons.dev/icons?i=numpy" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" /></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://skillicons.dev/icons?i=matplotlib" /></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=seaborn" /></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://skillicons.dev/icons?i=jupyter" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://skillicons.dev/icons?i=excel" /></a>
+</p>
 
 
 
