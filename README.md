@@ -43,11 +43,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/VB9464?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/VB9464?affiliations=OWNER%2CCOLLABORATOR&style=social)
 <!--START_SECTION:activity-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=VB9464&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
 <p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=VB9464&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
   <img src="https://github-readme-stats.vercel.app/api?username=VB9464&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
   <img src="https://streak-stats.demolab.com?user=VB9464&theme=tokyonight" height="170"/>
 </p>
