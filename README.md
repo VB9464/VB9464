@@ -39,6 +39,7 @@
 
 
 ## 👋 Hey there, I'm Vishal  
+<!--START_SECTION:activity-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VB9464&label=Profile%20Views&color=brightgreen&style=flat-square" alt="views"/>
 </p>
@@ -58,7 +59,7 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=VB9464&theme=radical" height="250"/>
 </p>
 
-
+<!--END_SECTION:activity-->
 ---
 
 
