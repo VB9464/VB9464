@@ -43,9 +43,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/VB9464?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/VB9464?affiliations=OWNER%2CCOLLABORATOR&style=social)
 <!--START_SECTION:activity-->
- <p align="center">
+ 
  [![trophy](https://github-profile-trophy.vercel.app/?username=VB9464&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
- </p>
+ 
  
 <p align="center">
  
