@@ -95,5 +95,56 @@
 I believe in the power of data to tell compelling stories and drive decisions. Let's turn data into intelligence together!
 ---
 
+<h1 align="center">Hi 👋, I'm Vishal Bagal</h1>
+<h3 align="center">Machine Learning Engineer | AI Enthusiast | Data Science Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=AI+Engineer+in+progress;ML+System+Designer;Full+Stack+Data+Science+Developer" alt="Typing Animation" />
+</p>
+
+
+<p align="center">
+  <img src="https://i.imgur.com/A5Hq4WQ.gif" width="600" alt="banner"/>
+</p>
+
+
+<p align="center">
+  <a href="https://linkedin.com/in/vishal-bagal"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:vishal@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter"></a>
+</p>
+
+
+### ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,react,nodejs,flutter,mysql,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VB9464&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VB9464&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VB9464&theme=tokyonight" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VB9464&theme=tokyo-night" alt="activity graph"/>
+</p>
+
+
+![snake gif](https://github.com/VB9464/VB9464/blob/output/github-contribution-grid-snake.svg)
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VB9464&theme=radical&margin-w=15&margin-h=15&no-frame=true&row=1" />
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
 
 
