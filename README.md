@@ -45,9 +45,7 @@
 <!--START_SECTION:activity-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=VB9464&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VB9464&label=Profile%20Views&color=brightgreen&style=flat-square" alt="views"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VB9464&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
