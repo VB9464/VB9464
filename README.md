@@ -24,11 +24,12 @@
   <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" /></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://skillicons.dev/icons?i=numpy" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" /></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://skillicons.dev/icons?i=matplotlib" /></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=seaborn" /></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://skillicons.dev/icons?i=jupyter" /></a>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-268bd2?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
