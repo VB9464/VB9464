@@ -1,6 +1,9 @@
 <!-- Header Banner -->
+<h1 align="center">Hi 👋, I'm Vishal Bagal</h1>
+<h3 align="center">Machine Learning Engineer | AI Enthusiast | Data Science Explorer</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Vishal;AI+%26+ML+Engineer+in+Progress;MSc+Data+Science+Student;Passionate+about+AI,+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=AI+Engineer+in+progress;ML+System+Designer;Full+Stack+Data+Science+Developer" alt="Typing Animation" />
 </p>
 
 ---
@@ -14,23 +17,12 @@
 
 ---
 
+  
 ## 🛠️ Skills & Tools  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-268bd2?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spyder%20IDE-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,matplotlib,seaborn,jupyter,vscode,pycharm,git,github,mysql,flutter,react,nodejs,excel" />
 </p>
+
 
 
 
@@ -54,10 +46,10 @@
 
 
 ### 📈 Contribution Graph
-<p>
- <img src ="https://github-readme-activity-graph.vercel.app/graph?username=VB9464&theme=radical" height="250"/>
-  
+ <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VB9464&theme=tokyo-night" alt="activity graph"/>
 </p>
+  
 
 <!--END_SECTION:activity-->
 ---
@@ -95,12 +87,7 @@
 I believe in the power of data to tell compelling stories and drive decisions. Let's turn data into intelligence together!
 ---
 
-<h1 align="center">Hi 👋, I'm Vishal Bagal</h1>
-<h3 align="center">Machine Learning Engineer | AI Enthusiast | Data Science Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=AI+Engineer+in+progress;ML+System+Designer;Full+Stack+Data+Science+Developer" alt="Typing Animation" />
-</p>
 
 
 <p align="center">
@@ -130,9 +117,7 @@ I believe in the power of data to tell compelling stories and drive decisions. L
   <img src="https://streak-stats.demolab.com?user=VB9464&theme=tokyonight" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VB9464&theme=tokyo-night" alt="activity graph"/>
-</p>
+
 
 
 ![snake gif](https://github.com/VB9464/VB9464/blob/output/github-contribution-grid-snake.svg)
