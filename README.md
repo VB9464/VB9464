@@ -94,3 +94,34 @@
 ## 💬 Fun Fact
 
 I believe in the power of data to tell compelling stories and drive decisions. Let's turn data into intelligence together!
+---
+![Profile Views](https://komarev.com/ghpvc/?username=VB9464&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/VB9464?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/VB9464?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VB9464&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VB9464&layout=compact&theme=radical)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VB9464&theme=radical)](https://git.io/streak-stats)
+
+![Vishal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VB9464&theme=radical)
+
+### 🚀 Featured Projects
+- [Refill App](https://github.com/VB9464/refill) – A delivery platform like Swiggy for taluka-to-village shops.  
+- [ML System Design](https://github.com/VB9464/ml-system-design) – Notes + practice on designing ML systems.  
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VB9464&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![Visitor Map](https://github.com/ashutosh00710/github-readme-activity-graph/raw/main/images/visitors-map.svg)
+
+
+
