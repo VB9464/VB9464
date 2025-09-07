@@ -1,0 +1,29 @@
+name: Update README Activity
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs every day at midnight UTC
+  workflow_dispatch:      # lets you trigger it manually from GitHub Actions tab
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Activity Snapshot
+        run: |
+          echo "### 🆕 Today's Activity: $(date)" > activity.md
+          # Later, you can replace this with a script that fetches activity data via GitHub API
+
+      - name: Insert Activity Into README
+        run: |
+          # Replace content between START_SECTION and END_SECTION in README.md
+          awk '/<!--START_SECTION:activity-->/ {print; system("cat activity.md"); found=1; next} /<!--END_SECTION:activity-->/ {found=0} !found' README.md > tmp && mv tmp README.md
+
+      - name: Commit Update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@github.com"
+          git add README.md activity.md
+          git commit -m "Update activity snapshot" || echo "No changes"
+          git push
