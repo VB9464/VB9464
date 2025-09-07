@@ -56,10 +56,9 @@
 
 ### 📈 Contribution Graph
 <p>
- 
+   <img src =" https://github-readme-activity-graph.cyclic.app/graph?username=VB9464&theme=radical" height="250"/>
 
-
-  <img src ="https://github-readme-activity-graph.vercel.app/graph?username=VB9464&theme=radical" height="250"/>
+  
 </p>
 
 <!--END_SECTION:activity-->
