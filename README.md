@@ -1,7 +1,6 @@
 <!-- Header Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=800&vCenter=true&lines=Hi+👋,+I'm+Vishal+Bagal;Machine+Learning+Engineer;AI+Enthusiast;Data+Science+Explorer" alt="Typing Animation"/>
-</p>
+<h1 align="center">Hi 👋, I'm Vishal Bagal</h1> 
+<h3 align="center">Machine Learning Engineer | AI Enthusiast | Data Science Explorer</h3>
 
 
 
