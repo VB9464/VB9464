@@ -3,7 +3,7 @@
 <h3 align="center">Machine Learning Engineer | AI Enthusiast | Data Science Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=MSc+Data+Science+Student;ML+Engineer;AI+Engineer+in+progress;Full+Stack+Data+Science+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=#00FF00&center=true&vCenter=true&width=435&lines=MSc+Data+Science+Student;ML+Engineer;AI+Engineer+in+progress;Full+Stack+Data+Science+Developer" alt="Typing Animation" />
 </p>
 
 ---
