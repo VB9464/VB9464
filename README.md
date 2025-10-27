@@ -1,11 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <!-- Big greeting (static or you can remove the img to keep it static) -->
-  <strong style="font-size:28px;">Hi 👋, I'm Vishal Bagal</strong>
-  <br/><br/>
-  <!-- Animated titles -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FF00&center=true&width=700&vCenter=true&lines=Machine+Learning+Engineer;AI+Enthusiast;MSc+Data+Science+Student;Full+Stack+Data+Science+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=800&vCenter=true&lines=Hi+👋,+I'm+Vishal+Bagal;Machine+Learning+Engineer;AI+Enthusiast;Data+Science+Explorer" alt="Typing Animation" />
 </p>
+
 
 
 <p align="center">
