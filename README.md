@@ -1,6 +1,12 @@
 <!-- Header Banner -->
-<h1 align="center">Hi 👋, I'm Vishal Bagal</h1>
-<h3 align="center">Machine Learning Engineer | AI Enthusiast | Data Science Explorer</h3>
+<p align="center">
+  <!-- Big greeting (static or you can remove the img to keep it static) -->
+  <strong style="font-size:28px;">Hi 👋, I'm Vishal Bagal</strong>
+  <br/><br/>
+  <!-- Animated titles -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FF00&center=true&width=700&vCenter=true&lines=Machine+Learning+Engineer;AI+Enthusiast;MSc+Data+Science+Student;Full+Stack+Data+Science+Developer" alt="Typing Animation" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=MSc+Data+Science+Student;ML+Engineer;AI+Engineer+in+progress;Full+Stack+Data+Science+Developer" alt="Typing Animation" />
